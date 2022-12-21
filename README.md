@@ -44,13 +44,11 @@ En el videomapping mediante el uso de proyectores de vídeo se extiende imágene
 
 Exponemos un caso de *videomapping* distinto con el nombre "Scintillation" del autor Xavier Chassaing. Observamos una mezcla de stop motion y proyección con cámara en directo que resulta especialmente fascinante en las secuencias en las que la proyección se ve a través de algo transparente, por ejemplo, los pétalos de las rosas. La obra parece un vídeo, pero en realidad son 35.000 fotografías con una mezcla de proyecciones mapeadas en 3D. Chassaing cuenta que utilizó una pequeña cámara DSLR, un ordenador y un proyector de vídeo. Elaboró un dispositivo que parece un control de movimiento pero con la característica de moverse muy despacio. Esto le permitió tomar secuencias de imágenes con una larga exposición (1 fotograma por segundo, con 1 segundo de exposición). 
 
-Este vídeo es un caso de hibridación y se diferencia de la multimedia. Utiliza técnicas nuevas y fusiona medios, como la combinación de las proyecciones mapeadas con el stop motion, el 3D y utilizó una técnica que no se conocía anteriormente. 
-
-Se muestra un nuevo tipo de una representación híbrida y consiste en combinar  y reconfigurar medios y formatos ya existentes.
+Este vídeo es un caso de hibridación y se diferencia de la multimedia. Utiliza técnicas nuevas y fusiona medios, como la combinación de las proyecciones mapeadas con el stop motion, el 3D y utilizó una técnica que no se conocía anteriormente. La experiencia del espectador no es fragmentada, distintos elementos de diferntes tipos están reproducidas en un conjunto y se han fusionados, ya que aunque no se realizó un vídeo, la combinación de videomapping y la captación de 35.000 fotogramas dan una sensación de pelicula al espectador.Se muestra un nuevo tipo de una representación híbrida que consiste en combinar  y reconfigurar medios y formatos ya existentes.
 
 ### Valoraciones personales
 
-Las nuevas tecnologías y el metamedio ordenador han posibilitado crear una gran variedad de nuevos medios, nuevas términos como la hibridación, la remediación, la transcodificación, etc. El desarrollo de los nuevos medios aumenta de forma muy rápida y los cambios y posibilidades que se ofrecen y se descubrirán en el futuro dan a las personas experiencias únicas de interacción, navegación, participación y muchas maneras de expresarse artísticamente.
+Las nuevas tecnologías y el metamedio ordenador han posibilitado crear una gran variedad de nuevos medios, nuevos términos como la hibridación, la remediación, la transcodificación, etc. El desarrollo de los nuevos medios aumenta de forma muy rápida y los cambios y posibilidades que se ofrecen y se descubrirán en el futuro dan a las personas experiencias únicas de interacción, navegación, participación y muchas maneras de expresarse artísticamente.
 
 ### Referencias y Bibliografía
 
